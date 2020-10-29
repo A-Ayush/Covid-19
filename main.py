@@ -11,7 +11,6 @@ app.config["DEBUG"] = True
 url = "https://api.covid19india.org/data.json"
 
 
-
 @app.route("/")
 @app.route("/home")
 def home():
@@ -21,4 +20,5 @@ def home():
 if __name__ == "__main__":
 	app.run()
 #step 1: Get the HTML
+
 
