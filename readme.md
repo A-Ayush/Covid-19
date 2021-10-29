@@ -1,8 +1,5 @@
 # COVID 19
 
-# Requirements
-# COVID 19
-
 ## Requirements
 (Important files)
 - pyhton 3.7
