@@ -19,6 +19,6 @@ def home():
 
 if __name__ == "__main__":
 	app.run()
-#step 1: Get the HTML
+step 1: Get the HTML
 
 
